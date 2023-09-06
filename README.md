@@ -24,16 +24,21 @@ This is a sample e-commerce clothing app created using Android Studio.
 
 ## Screenshots
 
-![Screenshot 2023-08-05 010258](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/2e473d9f-61d5-4c92-b1f5-c77915ecb316)
-![Screenshot 2023-08-05 010155](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/f9d46dfc-6fdc-4c5c-ba74-5b12ad72584c)
-![Screenshot 2023-08-05 010409](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/ef3c583b-1dbe-456c-a2db-e21c9b11fd87)
-![Screenshot 2023-08-05 010523](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/d55fafb4-c40a-42ee-b0c5-92b6c146dfc4)
-![Screenshot 2023-08-05 010602](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/8be5f26f-f91f-439b-869c-076572acef35)
-![Screenshot 2023-08-05 010941](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/30b59bd9-6063-4d35-a7a5-72e2db18dd4d)
-![Screenshot 2023-08-05 011201](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/c0046caa-866a-4502-94aa-4122e0c06cc8)
-![Screenshot 2023-08-05 011249](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/284953d6-6603-47de-b0cb-c2bf5f6adc20)
-![Screenshot 2023-08-05 011324](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/50e69edc-eba1-464e-a47c-7b71be36856a)
-![Screenshot 2023-08-05 012050](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/7431a4a8-6e50-43da-94f9-ca4be2ec881e)
+![Screenshot 2023-08-05 010258](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/1686645c-77d1-4bbf-9adf-73e5ea2d2f39)
+![Screenshot 2023-08-05 010258](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/357416c1-0262-4bee-9873-9ee03a6d4912)
+![Screenshot 2023-08-05 010409](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/6c130fbd-fb64-4b79-b18e-1ccd5153e313)
+![Screenshot 2023-08-05 010523](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/2993d341-04c0-47a7-a187-b4f5b584acac)
+![Screenshot 2023-08-05 010602](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/0a6287e5-7a8d-4f58-9aff-1ec2f8837177)
+![Screenshot 2023-08-05 010941](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/d8496bfc-e80a-4c98-aa36-d0d71e59c22a)
+![Screenshot 2023-08-05 011201](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/e3959ce7-5e81-4100-b855-e4327bd8b0a5)
+![Screenshot 2023-08-05 011249](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/e74e1bf0-2b09-451a-a522-43690a791ef5)
+![Screenshot 2023-08-05 011324](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/e3167a72-f8af-4cdf-9d8d-19943b204354)
+![Screenshot 2023-08-05 011324](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/f0dc4ab4-204a-4a58-90b3-82034731ca9e)
+![Screenshot 2023-08-05 011645](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/1e567688-43f1-4a5a-9d9f-d0c8a605487a)
+![Screenshot 2023-08-05 011844](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/7c4b42a4-e748-442c-9f65-e9f0367653e4)
+![Screenshot 2023-08-05 012050](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/43d751c2-306b-46bb-8fd0-211636724f7e)
+![Screenshot 2023-08-05 012629](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/9a9a5e23-1d5f-40ee-9769-d95005df08f2)
+
 
 
 
