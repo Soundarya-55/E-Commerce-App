@@ -25,7 +25,8 @@ This is a sample e-commerce clothing app created using Android Studio.
 ## Screenshots
 
 ![Screenshot 2023-08-05 010258](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/1686645c-77d1-4bbf-9adf-73e5ea2d2f39)
-![Screenshot 2023-08-05 010258](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/357416c1-0262-4bee-9873-9ee03a6d4912)
+![Screenshot 2023-08-05 010155](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/ba0bc27c-c22a-4a27-af77-7a4a4fd62393)
+
 ![Screenshot 2023-08-05 010409](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/6c130fbd-fb64-4b79-b18e-1ccd5153e313)
 ![Screenshot 2023-08-05 010523](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/2993d341-04c0-47a7-a187-b4f5b584acac)
 ![Screenshot 2023-08-05 010602](https://github.com/Soundarya-55/E-Commerce-App/assets/144033944/0a6287e5-7a8d-4f58-9aff-1ec2f8837177)
